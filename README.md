@@ -46,6 +46,10 @@ https://github.com/team-6-Java/ProyectoFinal-BasesDatos
 
 
 ###  4.Capturas del proyecto BBP:
+![ayuda1](https://user-images.githubusercontent.com/71090798/116141191-a49f9280-a6d8-11eb-98c2-0abca8e56978.png)
+![ayuda2](https://user-images.githubusercontent.com/71090798/116141211-ac5f3700-a6d8-11eb-8dfe-d6b5d4d26cd0.png)
+![ayuda3](https://user-images.githubusercontent.com/71090798/116141213-acf7cd80-a6d8-11eb-89f3-2d6d64cfbf65.png)
+![ayuda4](https://user-images.githubusercontent.com/71090798/116141228-b2edae80-a6d8-11eb-8bad-6b1fff911bd4.png)
 
 
 
