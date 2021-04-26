@@ -13,15 +13,12 @@
 ### 1. Descripción del proyecto: 
 
 BBP es una aplicación web, que permite a los empleados de T-Systems contactar con otros compañeros/as para prestarse libros fisicos al mismo tiempo que permite crear relaciones de amistad. Que mejor excusa para empezar a leer.
-```
- 
-```
+
 
 ###  2. Link a un demo con el proyecto desplegado:
 
-Repositorio de los ejercicios:
 ```
-https://github.com/team-6-Java/ProyectoFinal-BasesDatos
+BBP: https://github.com/giorocor/BibliotecaAngular
 ```
 ###   3. Lista de herramientas para el desarrollo de la APP:
 
